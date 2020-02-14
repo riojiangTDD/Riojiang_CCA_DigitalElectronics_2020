@@ -6,7 +6,7 @@ When we think of shields we think of strong armies, strong men. Whenever war beg
 So I wanted to show a shield of character, who was shy, scared, even lonely. Because no one understands the heart of a shield.
 
   <p align="center">
-  < img src="https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/Week03/shield.jpg">
+  < img src="https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week3/shield.jpg">
   </p >
 
 
