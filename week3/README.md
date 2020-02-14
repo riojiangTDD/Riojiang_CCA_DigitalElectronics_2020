@@ -16,6 +16,7 @@ So I wanted to show a shield of character, who was shy, scared, even lonely. Bec
 
 ### input&output
 input——Temperature sensor，Distance sensor
+
 output——Led light，speaker
 
 
