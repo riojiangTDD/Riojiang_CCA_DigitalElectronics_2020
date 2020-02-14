@@ -34,9 +34,13 @@ output——Led light，speaker
 ### Punch List
 Must Have: 
 -Temperature sensor
+
 -Speakers
+
 -Distance sensor
+
 -Led light
 
 Nice to Have:
+
 -According to the distance the shield can make more plenty sounds
