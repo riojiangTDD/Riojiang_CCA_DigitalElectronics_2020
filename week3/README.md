@@ -5,15 +5,15 @@
 When we think of shields we think of strong armies, strong men. Whenever war begins, shields help people resist attacks. But must the shield be strong inside?
 So I wanted to show a shield of character, who was shy, scared, even lonely. Because no one understands the heart of a shield.
 
- <p align="center">
- ![img](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week3/shield.jpg)
- </p >
+<p align="center">
+![img](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week3/shield.jpg)
+</p >
+
 
 ### Electrical Schematic:
 <p align="center">
- ![img](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week3/circuit%20diagram.jpeg)
- </p >
-
+![img](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week3/circuit%20diagram.jpeg)
+</p >
 
 ### what i want to do  
 
@@ -28,12 +28,3 @@ So I wanted to show a shield of character, who was shy, scared, even lonely. Bec
 input——Temperature sensor，Distance sensor
 
 output——Led light，speaker
-
-
-
- 
-
-
- 
- 
-
