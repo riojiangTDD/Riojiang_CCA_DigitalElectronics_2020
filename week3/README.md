@@ -15,6 +15,7 @@ So I wanted to show a shield of character, who was shy, scared, even lonely. Bec
 ![img](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week3/circuit%20diagram.jpeg)
 </p >
 
+
 ### what i want to do  
 
 🔪 when you hit this shield, it will says”you broking my heart”
@@ -29,9 +30,10 @@ input——Temperature sensor，Distance sensor
 
 output——Led light，speaker
 
+
 ### Punch List
   * Must Have: 
-    * Temperature senso
+    * Temperature sensor
     * Speakers
     * Distance sensor
     * Led light
