@@ -1,6 +1,6 @@
  
 
-# The most vulnerable shield 
+# Week3-The most vulnerable shield 
 
 When we think of shields we think of strong armies, strong men. Whenever war begins, shields help people resist attacks. But must the shield be strong inside?
 So I wanted to show a shield of character, who was shy, scared, even lonely. Because no one understands the heart of a shield.
