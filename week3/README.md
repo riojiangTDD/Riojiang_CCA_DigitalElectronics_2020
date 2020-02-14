@@ -4,6 +4,9 @@
 
 When we think of shields we think of strong armies, strong men. Whenever war begins, shields help people resist attacks. But must the shield be strong inside?
 So I wanted to show a shield of character, who was shy, scared, even lonely. Because no one understands the heart of a shield.
+< img src="https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/Week02/HowItWorks.gif">
+</p >
+
 
 ### what i want to do  
 
