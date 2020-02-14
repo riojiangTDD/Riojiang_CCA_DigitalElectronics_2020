@@ -28,3 +28,12 @@ So I wanted to show a shield of character, who was shy, scared, even lonely. Bec
 input——Temperature sensor，Distance sensor
 
 output——Led light，speaker
+
+### Punch List
+  * Must Have: 
+    * Temperature senso
+    * Speakers
+    * Distance sensor
+    * Led light
+  * Nice to Have:
+    According to the distance the shield can make more plenty sounds
