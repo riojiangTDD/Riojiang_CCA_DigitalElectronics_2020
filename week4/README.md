@@ -1,9 +1,27 @@
-# Riojiang_CCA_DigitalElectronics_2020
+ 
 
-## Week 2
-   
- What I interest project:   
-   
-   This project is about how to make a time machine! This DIY time control machine looks like a glove, and can "stop" any moving subject. First part of this video is about some demonstration and experiments, and second - about how to make this time machine, using Arduino, high-power LED and some tricky magic with soldering iron. You can use this for pranks and demonstration of stroboscopic effect. 
+# Week4-The most vulnerable shield 
+## --------ultrasonic sensor
 
-Video link: https://www.youtube.com/watch?v=rj9L1_-AzMc
+This week, i tried to figure out the part of the ultrasonic sensor with a speaker that can make the sounds by distance.  So I used two ultrasonic sensors to detect two kinds of distance, which can trigger two sounds.  
+
+
+### I found the problem:
+
+1.
+I refer to the online tutorials for programming
+https://create.arduino.cc/projecthub/javier-munoz-saez/arduino-mp3-player-distance-sensor-fun-6b1bce
+But for the MP3 module, I chose Adafruit Audio FX sound board. This is not the same as the tutorial. So I'm trying to change the code.
+
+2. 
+How to add MP3 files to Arduino
+
+
+### Electrical Schematic:
+<p align="center">
+![img](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week4/eGEC4GaoUk07iQYgIi4W.jpg)
+</p >
+
+
+
+
