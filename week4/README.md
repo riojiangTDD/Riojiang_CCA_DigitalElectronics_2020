@@ -17,7 +17,7 @@ But for the MP3 module, I chose Adafruit Audio FX sound board. This is not the s
 How to add MP3 files to Arduino
 
 
-### Electrical Schematic:
+### Circuit:
 <p align="center">
 ![img](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week4/eGEC4GaoUk07iQYgIi4W.jpg)
 </p >
