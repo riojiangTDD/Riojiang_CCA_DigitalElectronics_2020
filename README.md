@@ -8,7 +8,7 @@ So I wanted to show a shield of character, who was shy, scared, even lonely. Bec
 
 <p align="center">
 </p >
-![](img/5.png)
+<img src = "./img/5.png">
 
 
 ### Electrical Schematic:
