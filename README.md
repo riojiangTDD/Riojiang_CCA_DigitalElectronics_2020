@@ -7,13 +7,13 @@ When we think of shields we think of strong armies, strong men. Whenever war beg
 So I wanted to show a shield of character, who was shy, scared, even lonely. Because no one understands the heart of a shield.
 
 <p align="center">
-![img](week3/shield.jpg)
+![](week3/shield.jpg)
 </p >
 
 
 ### Electrical Schematic:
 <p align="center">
-![img](week3/circuit%20diagram.jpeg)
+![](week3/circuit%20diagram.jpeg)
 </p >
 
 
