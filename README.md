@@ -7,7 +7,7 @@ When we think of shields we think of strong armies, strong men. Whenever war beg
 So I wanted to show a shield of character, who was shy, scared, even lonely. Because no one understands the heart of a shield.
 
 <p align="center">
-![alt text](week3/shield.jpg)
+![alt text](/week3/shield.jpg)
 </p >
 
 
