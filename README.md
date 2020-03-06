@@ -8,13 +8,15 @@ So I wanted to show a shield of character, who was shy, scared, even lonely. Bec
 
 <p align="center">
 </p >
-<img src = "./img/5.png">
+<img src = "./week3/shield.jpg">
 
 
 ### Electrical Schematic:
+
 <p align="center">
-![](week3/circuit%20diagram.jpeg)
 </p >
+<img src = "./week3/circuit%20diagram.jpeg">
+
 
 
 ### what i want to do  
