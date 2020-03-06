@@ -50,12 +50,11 @@ Nice to Have:
 ## Week 2
 
 <p align="center">
-![](week2/LDR%20control/IMG_6103.gif)
+<img src = "./week2/LDR%20control/IMG_6103.gif">
 </p >
 
-
 <p align="center">
-![](week2/traffic_light/traffic%20light%20.gif)
+<img src = "./week2/traffic_light/traffic%20light%20.gif">
 </p >
 
 
