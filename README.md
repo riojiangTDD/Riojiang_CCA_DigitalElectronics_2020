@@ -8,14 +8,13 @@ So I wanted to show a shield of character, who was shy, scared, even lonely. Bec
 
 <p align="center">
 </p >
-<img src = "./week3/shield.jpg">
+<img src = "./img/5.png">
 
 
 ### Electrical Schematic:
 <p align="center">
+![](week3/circuit%20diagram.jpeg)
 </p >
-<img src = "./week3/circuit%20diagram.jpeg">
-
 
 
 ### what i want to do  
@@ -49,7 +48,17 @@ Nice to Have:
 
 
 ## Week 2
-   
+
+<p align="center">
+![](week2/LDR%20control/IMG_6103.gif)
+</p >
+
+
+<p align="center">
+![](week2/traffic_light/traffic%20light%20.gif)
+</p >
+
+
  What I interest project:   
    
    This project is about how to make a time machine! This DIY time control machine looks like a glove, and can "stop" any moving subject. First part of this video is about some demonstration and experiments, and second - about how to make this time machine, using Arduino, high-power LED and some tricky magic with soldering iron. You can use this for pranks and demonstration of stroboscopic effect. 
