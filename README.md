@@ -13,8 +13,9 @@ So I wanted to show a shield of character, who was shy, scared, even lonely. Bec
 
 ### Electrical Schematic:
 <p align="center">
-![](week3/circuit%20diagram.jpeg)
 </p >
+<img src = "./week3/circuit%20diagram.jpeg">
+
 
 
 ### what i want to do  
