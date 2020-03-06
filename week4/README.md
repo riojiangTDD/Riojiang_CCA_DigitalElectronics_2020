@@ -19,8 +19,7 @@ How to add MP3 files to Arduino
 
 ### Circuit:
 <p align="center">
-![image](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week4/eGEC4GaoUk07iQYgIi4W.jpg)
-</p >
+![image]()
 
 
 
