@@ -20,6 +20,7 @@ How to add MP3 files to Arduino
 ### Circuit:
 <p align="center">
 ![](eGEC4GaoUk07iQYgIi4W.jpg)
+ <img src = "eGEC4GaoUk07iQYgIi4W.jpg">
 
 
 
