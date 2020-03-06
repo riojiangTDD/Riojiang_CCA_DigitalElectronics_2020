@@ -7,7 +7,7 @@ So I wanted to show a shield of character, who was shy, scared, even lonely. Bec
 
 <p align="center">
 </p >
-<img src = "./week3/shield.jpg">
+<img src = "./https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/week3/shield.jpg">
 
 
 ### Electrical Schematic:
