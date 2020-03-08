@@ -12,6 +12,8 @@ I use two ultrasonic sensors to detect the no-pass distance. When people approac
 
 I used the mp3 player to control the sound. There are two audio files corresponding to two sensors
 
+## Video Link: https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020/blob/master/Week4-7/Final.MOV
+
 
 ## ⚙️Things used in this project
 
