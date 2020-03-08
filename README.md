@@ -28,7 +28,7 @@ some speaker with mp3 jack input
 👇🏼👇🏼👇🏼
 <p align="center">
 </p >
-<img src = "./Week4-7/circuit.JPG">
+<img src = "./Week4-7/circuit.jpg">
 
 ## prototype
 👇🏼👇🏼👇🏼
@@ -50,9 +50,15 @@ I used spray paint to make the shield look like a war machine, so that the sound
 </p >
 <img src = "./Week4-7/preview.JPG">
 
-
-
-
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
 # Week3-The most vulnerable shield 
 
@@ -100,6 +106,16 @@ Must Have:
 Nice to Have:
 
 -According to the distance the shield can make more plenty sounds
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
 
 ## Week 2
