@@ -14,9 +14,13 @@ I used the mp3 player to control the sound. There are two audio files correspond
 
 
 ## ⚙️Things used in this project
+
 Arduino UNO & Genuino UNO
+
 Arduino serial mp3 player 
+
 Ultrasonic Sensor - HC-SR04  x2
+
 some speaker with mp3 jack input
 
 
@@ -24,13 +28,13 @@ some speaker with mp3 jack input
 👇🏼👇🏼👇🏼
 <p align="center">
 </p >
-<img src = "./Week4-7/circuit.jpg">
+<img src = "./Week4-7/circuit.JPG">
 
 ## prototype
 👇🏼👇🏼👇🏼
 <p align="center">
 </p >
-<img src = "./Week4-7/prototype.jpg">
+<img src = "./Week4-7/prototype.JPG">
 
 
 ## Final
@@ -39,12 +43,12 @@ I used spray paint to make the shield look like a war machine, so that the sound
 
 <p align="center">
 </p >
-<img src = "./Week4-7/preview2.jpg">
+<img src = "./Week4-7/preview2.JPG">
 
 
 <p align="center">
 </p >
-<img src = "./Week4-7/preview.jpg">
+<img src = "./Week4-7/preview.JPG">
 
 
 
