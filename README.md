@@ -1,6 +1,27 @@
 # Riojiang_CCA_DigitalElectronics_2020
 
 
+
+# Week5-7-The most vulnerable shield 
+
+<p align="center">
+</p >
+<img src = "./Week4-7/touch%20effect.gif">
+
+🛡I use two ultrasonic sensors to detect the no-pass distance. When people approach the first sensor, it will emit a cry of pain. The second sensor says "don't leave me" when people approach it. The red light goes on when people touch the touch sensor on the shield.
+
+I used the mp3 player to control the sound. There are two audio files corresponding to two sensors
+
+
+## ⚙️Things used in this project
+Arduino UNO & Genuino UNO
+Arduino serial mp3 player 
+Ultrasonic Sensor - HC-SR04  x2
+some speaker with mp3 jack input
+
+👇🏼👇🏼👇🏼
+
+
 # Week3-The most vulnerable shield 
 
 When we think of shields we think of strong armies, strong men. Whenever war begins, shields help people resist attacks. But must the shield be strong inside?
