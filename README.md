@@ -2,13 +2,13 @@
 
 
 
-# Week5-7-The most vulnerable shield 
+# Week5-7-The most vulnerable shield 🛡🛡🛡
 
 <p align="center">
 </p >
 <img src = "./Week4-7/touch%20effect.gif">
 
-🛡I use two ultrasonic sensors to detect the no-pass distance. When people approach the first sensor, it will emit a cry of pain. The second sensor says "don't leave me" when people approach it. The red light goes on when people touch the touch sensor on the shield.
+I use two ultrasonic sensors to detect the no-pass distance. When people approach the first sensor, it will emit a cry of pain. The second sensor says "don't leave me" when people approach it. The red light goes on when people touch the touch sensor on the shield.
 
 I used the mp3 player to control the sound. There are two audio files corresponding to two sensors
 
@@ -19,7 +19,35 @@ Arduino serial mp3 player
 Ultrasonic Sensor - HC-SR04  x2
 some speaker with mp3 jack input
 
+
+## Circuit
 👇🏼👇🏼👇🏼
+<p align="center">
+</p >
+<img src = "./Week4-7/circuit.jpg">
+
+## prototype
+👇🏼👇🏼👇🏼
+<p align="center">
+</p >
+<img src = "./Week4-7/prototype.jpg">
+
+
+## Final
+I used spray paint to make the shield look like a war machine, so that the sound and appearance of the shield could be greatly contrasted.
+👇🏼👇🏼👇🏼
+
+<p align="center">
+</p >
+<img src = "./Week4-7/preview2.jpg">
+
+
+<p align="center">
+</p >
+<img src = "./Week4-7/preview.jpg">
+
+
+
 
 
 # Week3-The most vulnerable shield 
