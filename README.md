@@ -7,11 +7,12 @@
 <img src = "./Final/topic.jpg">
 For the final project, I prefer to make an interactive pictures wall to tribute my favorite movie<LOVE DEATH ROBOTS>. This movie has three central concepts to express a big idea about the future world. So i want to use three different interaction ways to compose my project---Light/sounds/mechanical corresponding LOVE/DEATH/ROBOTS.
 
-## something special:
+## Something special:
 <p align="center">
 </p >
 <img src = "./Final/conductive paint.jpg">
-In this project 
+
+In this project, I'd like to use electric pigment to draw those symbols the one of the reasons is this product can do four things -- paint sensors/ Twist board into place/ fold templates / turn on. It is a good way to showing on my project, which makes it simple, clear, and easy to interact. SO I can give up a traditional touch sensor that won't  damage my picture.
 
 
 
@@ -20,12 +21,13 @@ In this project
 </p >
 <img src = "./Final/circuit.jpg">
 
-The three parts of pictures controlled by one arduino board. 
-For the first picture, when you touch the heart that will triger the projector to play anaimation on the picture.
-For the second picture, when you press the error symbol, the music will be play by the speaker behined the picture.
-For the third pictre, the symbol is a robot, when you touch it, the eyes pattern will change via a roulette bechind the picture.
+The three parts of pictures controlled by one arduino board.
 
+-For the first picture, when you touch the heart, that will trigger the projector to play animation on the picture.
 
+-For the second picture, when you press the error symbol, the music will be played by the speaker behind the picture.
+
+-For the third picture, the symbol is a robot. When you touch it, the eyes pattern will change via a roulette behind the picture.
 
 
 #
