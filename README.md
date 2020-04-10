@@ -5,12 +5,26 @@
 <p align="center">
 </p >
 <img src = "./Final/topic.jpg">
-For the final project, I prefer to make an interactive pictures wall to tribute my favorite movie《LOVE DEATH ROBOTS>. This movie has three central concepts to express a big idea about the future world. So i want to use three different interaction ways to compose my project---Light/sounds/mechanical corresponding LOVE/DEATH/ROBOTS.
+For the final project, I prefer to make an interactive pictures wall to tribute my favorite movie<LOVE DEATH ROBOTS>. This movie has three central concepts to express a big idea about the future world. So i want to use three different interaction ways to compose my project---Light/sounds/mechanical corresponding LOVE/DEATH/ROBOTS.
+
+## something special:
+<p align="center">
+</p >
+<img src = "./Final/conductive paint.jpg">
+In this project 
+
+
 
 ## Components: 
 <p align="center">
 </p >
 <img src = "./Final/circuit.jpg">
+
+The three parts of pictures controlled by one arduino board. 
+For the first picture, when you touch the heart that will triger the projector to play anaimation on the picture.
+For the second picture, when you press the error symbol, the music will be play by the speaker behined the picture.
+For the third pictre, the symbol is a robot, when you touch it, the eyes pattern will change via a roulette bechind the picture.
+
 
 
 
