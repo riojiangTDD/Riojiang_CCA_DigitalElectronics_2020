@@ -1,7 +1,12 @@
 # Riojiang_CCA_DigitalElectronics_2020
 #
 #
-#
+# Fianl interactive wall of pictures  
+<p align="center">
+</p >
+<img src = "./Final/topic.jpg">
+For the final project, i prefer to make a interactive wall of pictures to tribute my favorite movie<love death robot>
+
 #
 #
 #
