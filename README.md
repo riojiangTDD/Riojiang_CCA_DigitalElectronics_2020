@@ -5,12 +5,12 @@
 <p align="center">
 </p >
 <img src = "./Final/topic.jpg">
-For the final project, i prefer to make a interactive pictures wall to tribute my favorite movie《LOVE DEATH ROBOTS>. Due to this movie has three main concept to express a big idea about the future world. so i want to use three different interaction ways to compose my project---Light/sounds/mechanical corresponding LOVE/DEATH/ROBOTS.
+For the final project, I prefer to make an interactive pictures wall to tribute my favorite movie《LOVE DEATH ROBOTS>. This movie has three central concepts to express a big idea about the future world. So i want to use three different interaction ways to compose my project---Light/sounds/mechanical corresponding LOVE/DEATH/ROBOTS.
 
 ## Components: 
 <p align="center">
 </p >
-<img src = "./Final/circutt.jpg">
+<img src = "./Final/circuit.jpg">
 
 
 
