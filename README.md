@@ -1,11 +1,18 @@
 # Riojiang_CCA_DigitalElectronics_2020
 #
 #
-# Fianl interactive wall of pictures  
+# Fianl Project --- interactive picture wall  
 <p align="center">
 </p >
 <img src = "./Final/topic.jpg">
-For the final project, i prefer to make a interactive wall of pictures to tribute my favorite movie<love death robot>
+For the final project, i prefer to make a interactive pictures wall to tribute my favorite movie《LOVE DEATH ROBOTS>. Due to this movie has three main concept to express a big idea about the future world. so i want to use three different interaction ways to compose my project---Light/sounds/mechanical corresponding LOVE/DEATH/ROBOTS.
+
+## Components: 
+<p align="center">
+</p >
+<img src = "./Final/circutt.jpg">
+
+
 
 #
 #
