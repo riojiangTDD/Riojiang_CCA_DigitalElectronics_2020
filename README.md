@@ -1,7 +1,36 @@
 # Riojiang_CCA_DigitalElectronics_2020
 #
+# Fianl Project process(1) --- interactive picture wall  
+
+In this week I finished 2 parts of work -- This week I completed two parts of the work, one is the animation which contains three graphic animations.In the other part, I tested How to use conductive pigments.
+
+## Graphic
+<p align="center">
+</p >
+<img src = "./Final/test%201/graphic.jpg">
+I have designed three shapes, which will be pasted onto the foam board and painted with conductive paint.
+
+## Preview
+<p align="center">
+</p >
+<img src = "./Final/test%201/preview.gif">
+In later versions, this animation was triggered when you touched the icon on the foam board made of conductive material
+
+## Components
+<p align="center">
+</p >
+<img src = "./Final/process.jpg">
+Now I use the computer to input the image and output the finished animation through the projector. After this version, i'll add arduino board to controll that people interactive with the picture wall.
+
+## Electronic paint 
+<p align="center">
+</p >
+<img src = "./Final/test%201/electronic%20paint.gif">
+This was the first time I used conductive paint, so I simply made a lamp that controlled the brightness by touching the conductive paint.In this process, I found that conductive pigments need enough pigments to have good conductivity in the painting process. And unlike traditional pigments, conductive pigments are difficult to maintain a clear edge. So later, I may combine the conductive pigment with the printed pattern together which will got a perfect pattern.
+
+
 #
-# Fianl Project --- interactive picture wall  
+# Fianl Project Concept --- interactive picture wall  
 <p align="center">
 </p >
 <img src = "./Final/topic.jpg">
