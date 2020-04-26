@@ -5,7 +5,12 @@
 <p align="center">
 </p >
 <img src = "./Final/interactive picture.gif">
+
 I use the projector to present my animation. In order to make the animation perfectly match the three patterns, I choose to use madmapper.The mapmapper is a perfect tools for light mapping, users can freely set The size of each projection pattern and perspective, so that my animation can be perfectly projected on any plane.
+
+<p align="center">
+</p >
+<img src = "./Final/components.jpg">
 
 ## bare conductive touch board
 <p align="center">
