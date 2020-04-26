@@ -1,8 +1,21 @@
 # Riojiang_CCA_DigitalElectronics_2020
 #
-# Fianl Project process(1) --- interactive picture wall  
+# Fianl Project --- interactive picture wall  
 
-In this week I finished 2 parts of work -- This week I completed two parts of the work, one is the animation which contains three graphic animations.In the other part, I tested How to use conductive pigments.
+<p align="center">
+</p >
+<img src = "./Final/interactive picture.gif">
+I use the projector to present my animation. In order to make the animation perfectly match the three patterns, I choose to use madmapper.The mapmapper is a perfect tools for light mapping, users can freely set The size of each projection pattern and perspective, so that my animation can be perfectly projected on any plane.
+
+## bare conductive touch board
+<p align="center">
+</p >
+<img src = "./Final/touch board.jpg">
+I use bare conductive touch board instead of arduino boarad.cuz The Touch Board is a microcontroller board with 12 capacitive touch and proximity electrodes, so I can use it to turn any material or surface into a sensor. Extend each of the Touch Board’s electrodes using Electric Paint or other conductive materials to create sensors on a range of objects or substrates. 
+
+## programming 
+For the programming part, I used a library called Midi interface generic. In the end when people touch any touch point on the graphic pattern. Which will order the projecter to play the corrsiponding video.
+
 
 ## Graphic
 <p align="center">
